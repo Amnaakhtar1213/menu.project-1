@@ -1,1 +1,1 @@
-# This is my first ever code that i have written .This is simple a menu that i made it using HTML and CSS. It has just 4 items and for css i add just background-color with hover effect and items hover it changes colors. 
+# I code this 3 month ago when i start coding. This is my first ever code that i have written .This is a simple  menu that i made it using HTML and CSS.By using HTML,i add 4 items and by using CSS, it has background-color properties.I also add hover effect,items change backgroung-color when we hover on it. 
